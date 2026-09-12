@@ -1,8 +1,10 @@
 # ماشین حساب با Python و Tkinter
 
-یک ماشین حساب گرافیکی ساده که با استفاده از **Python** و کتابخانه **Tkinter** ساخته شده است.
+یک ماشین حساب گرافیکی ساده و کاربردی با **Python** و **Tkinter**، مناسب برای یادگیری مفاهیم مقدماتی ساخت رابط کاربری در پایتون.
 
-این پروژه برای آموزش مفاهیم مقدماتی Tkinter و ساخت رابط گرافیکی در پایتون طراحی شده است.
+## تصویر پروژه
+
+![ماشین حساب Python و Tkinter](images/calculator.png)
 
 ## امکانات
 
@@ -19,14 +21,10 @@
 * Python 3
 * Tkinter
 
-Tkinter معمولاً همراه با نصب استاندارد Python در دسترس است.
-
-## اجرا
-
-ابتدا مخزن را دریافت کنید:
+## دریافت پروژه
 
 ```bash
-git clone https://github.com/USERNAME/python-tkinter-calculator.git
+git clone https://github.com/taha-heidaryfard/python-tkinter-calculator.git
 ```
 
 وارد پوشه پروژه شوید:
@@ -35,7 +33,7 @@ git clone https://github.com/USERNAME/python-tkinter-calculator.git
 cd python-tkinter-calculator
 ```
 
-سپس برنامه را اجرا کنید:
+## اجرا
 
 ```bash
 python calculator.py
@@ -48,12 +46,16 @@ python-tkinter-calculator/
 │
 ├── calculator.py
 ├── README.md
-└── .gitignore
+├── .gitignore
+└── images/
+    └── calculator.png
 ```
 
-## تصویر پروژه
+## مقاله آموزشی
 
-یک تصویر از ماشین حساب در این بخش قرار دهید.
+آموزش کامل ساخت این ماشین حساب را می‌توانید در وب‌سایت من مطالعه کنید:
+
+[taha-heidaryfard.ir](https://taha-heidaryfard.ir?utm_source=chatgpt.com)
 
 ## لایسنس
 
